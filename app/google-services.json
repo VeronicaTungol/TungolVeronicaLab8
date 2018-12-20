@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "730354833653",
+    "firebase_url": "https://tungolveronicalab8.firebaseio.com",
+    "project_id": "tungolveronicalab8",
+    "storage_bucket": "tungolveronicalab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730354833653:android:4202a12608b3f593",
+        "android_client_info": {
+          "package_name": "com.tungol.veronica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730354833653-c9rnhu1mmvv7ioukpf68lgob26tv8dtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tungol.veronica",
+            "certificate_hash": "e42c12184903a149afcf90f6195c2eb7cb6aaed8"
+          }
+        },
+        {
+          "client_id": "730354833653-2nm1pjpt7gsakjhsitv1pi4bdqgmgvq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLz4MrRrCup_jLZTprksQCW3QzlLPxZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730354833653-2nm1pjpt7gsakjhsitv1pi4bdqgmgvq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
